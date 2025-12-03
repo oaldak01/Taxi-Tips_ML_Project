@@ -34,4 +34,4 @@ Also, ensure that your Google Drive is mounted to access the data file.
 7.  **Model Evaluation**: The Mean Squared Error (MSE) is used to evaluate the performance of the model, demonstrating an improvement after data cleaning.
 
 ## Results
-After initial data cleaning and model training, the Mean Squared Error (MSE) was significantly reduced from `32.04` to `0.88`, indicating a substantial improvement in the model's ability to predict tip amounts.
+After initial data cleaning and model training, the Mean Squared Error (MSE) was significantly reduced from `1.08` to `0.88`, indicating a substantial improvement in the model's ability to predict tip amounts.
